@@ -1,0 +1,5 @@
+version: '3'
+services:
+  webpack-startup-kit:
+    build: .
+    container_name: webpack-startup-kit
