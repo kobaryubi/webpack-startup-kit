@@ -2,6 +2,9 @@
   "name": "webpack-startup-kit",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
   "repository": "https://github.com/kobaryubi/webpack-startup-kit.git",
   "license": "MIT",
   "devDependencies": {
