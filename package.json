@@ -8,6 +8,10 @@
   "repository": "https://github.com/kobaryubi/webpack-startup-kit.git",
   "license": "MIT",
   "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "stylelint": "^14.8.2",
+    "stylelint-config-standard": "^25.0.0",
     "webpack": "^5.72.0",
     "webpack-cli": "^4.9.2"
   },
